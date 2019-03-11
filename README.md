@@ -3,5 +3,6 @@ Template of projects
 
 # How to use
 
-# npm packages
+# npm packages installed
 
+node-sass
